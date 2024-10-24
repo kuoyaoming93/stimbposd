@@ -17,7 +17,6 @@ requires-python = ">=3.7"
 dependencies = [
     "stim",
     "sinter",
-    "ldpc ~= 2.1",
     "numpy"
 ]
 classifiers = [
