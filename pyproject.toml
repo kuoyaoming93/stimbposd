@@ -16,8 +16,7 @@ readme = "README.md"
 requires-python = ">=3.7"
 dependencies = [
     "stim",
-    "sinter",
-    "numpy"
+    "sinter"
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
